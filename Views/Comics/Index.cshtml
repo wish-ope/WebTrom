@@ -1,98 +1,102 @@
-﻿@model IEnumerable<WebTruyen.Models.Comic>
+﻿    @model IEnumerable<WebTruyen.Models.Comic>
 
-<!DOCTYPE html>
-<html lang="vi">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Đọc Truyện Tranh</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif; /* Chọn font cho trang */
-            background-color: #f4f4f4; /* Màu nền cho trang */
-            margin: 0;
-            padding: 20px;
-        }
+    <!DOCTYPE html>
+    <html lang="vi">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Đọc Truyện Tranh</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif; /* Chọn font cho trang */
+                background-color: #f4f4f4; /* Màu nền cho trang */
+                margin: 0;
+                padding: 20px;
+            }
 
        
 
-        .comic-gallery {
-            display: flex;
-            flex-wrap: wrap; /* Cho phép các phần tử xuống hàng */
-            justify-content: space-between; /* Căn đều khoảng cách giữa các phần tử */
-        }
-
-        .comic-item {
-            width: 23%; /* Điều chỉnh kích thước phần tử */
-            padding: 10px;
-            box-sizing: border-box;
-            text-align: center;
-            margin-bottom: 20px; /* Thêm khoảng cách giữa các hàng */
-        }
-
-        .container {
-            position: relative;
-            width: 100%; /* Chiếm toàn bộ chiều rộng của comic-item */
-            overflow: hidden;
-        }
-
-        .image-champ {
-            width: 100%; /* Đảm bảo ảnh chiếm toàn bộ chiều rộng */
-            height: auto;
-            object-fit: cover;
-            transition: transform 0.7s;
-        }
-
-          .image-champ:hover {
-                transform: scale(1.1);
-                border: 2px solid rgba(133, 134, 50, 0.877);
+            .comic-gallery {
+                display: flex;
+                flex-wrap: wrap; /* Cho phép các phần tử xuống hàng */
+                justify-content: space-between; /* Căn đều khoảng cách giữa các phần tử */
             }
 
-        .copy_xxN7 {
-            position: absolute;
-            right: 0;
-            bottom: 0;
-            left: 0;
-            background-color: rgba(40, 40, 43, 0.9);
-            border-top: 1px solid #927345;
-            padding: 10px;
-            text-align: center;
-            transition: .4s;
-            font-size: 10px;
-            color: rgba(255, 255, 59, 0.877);
-        }
+            .comic-item {
+                width: 23%; /* Điều chỉnh kích thước phần tử */
+                padding: 10px;
+                box-sizing: border-box;
+                text-align: center;
+                margin-bottom: 20px; /* Thêm khoảng cách giữa các hàng */
+            }
 
-        .copy_xxN7 h1 {
-            text-align: center; /* Căn giữa tiêu đề */
-            color: #333; /* Màu chữ tiêu đề */
-            font-size: 13px;
-            color: rgba(255, 255, 255);
-        }
-        .container:hover .copy_xxN7 {
-            height: 100px;
-            padding: 20px;
-        }
+            .container {
+                position: relative;
+                width: 100%; /* Chiếm toàn bộ chiều rộng của comic-item */
+                overflow: hidden;
+            }
 
-        .copy_xxN7 h1 {
-            margin: 0; /* Remove default margin */
-        }
-    </style>
-</head>
-<body>
-    <h1>Truyện Đề Cử</h1>
-    <div class="comic-gallery">
+            .image-champ {
+                width: 100%; /* Đảm bảo ảnh chiếm toàn bộ chiều rộng */
+                height: auto;
+                object-fit: cover;
+                transition: transform 0.7s;
+            }
+
+              .image-champ:hover {
+                    transform: scale(1.1);
+                    border: 2px solid rgba(133, 134, 50, 0.877);
+                }
+
+            .copy_xxN7 {
+                position: absolute;
+                right: 0;
+                bottom: 0;
+                left: 0;
+                background-color: rgba(40, 40, 43, 0.9);
+                border-top: 1px solid #927345;
+                padding: 10px;
+                text-align: center;
+                transition: .4s;
+                font-size: 10px;
+                color: rgba(255, 255, 59, 0.877);
+            }
+
+            .copy_xxN7 h1 {
+                text-align: center; /* Căn giữa tiêu đề */
+                color: #333; /* Màu chữ tiêu đề */
+                font-size: 13px;
+                color: rgba(255, 255, 255);
+            }
+            .container:hover .copy_xxN7 {
+                height: 100px;
+                padding: 20px;
+            }
+
+            .copy_xxN7 h1 {
+                margin: 0; /* Remove default margin */
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Truyện Đề Cử</h1>
+        <div class="comic-gallery">
         @foreach (var comic in Model)
         {
             <div class="comic-item">
-                <div class="container">
-                    <img src="@comic.Cover" class="image-champ" />
-                    <div class="copy_xxN7">
-                        <h1>@comic.Title</h1> 
-                        <p>Latest Chapter: @comic.LatestChap</p> <!-- Chapter mới nhất -->
+                <a href="/Comics/Detail?title=@comic.Title">
+                    <div class="container">
+                        <img src="@comic.Cover" class="image-champ" />
+                        <div class="copy_xxN7">
+                            <h1>@comic.Title</h1>
+                            <p>Latest Chapter: @comic.LatestChap</p>
+                        </div>
                     </div>
-                </div>
+                </a>
             </div>
         }
-    </div>
-</body>
-</html>
+        </div>
+
+        
+    </body>
+    </html>

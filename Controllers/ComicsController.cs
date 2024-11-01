@@ -45,5 +45,64 @@ namespace WebTruyen.Controllers
 
             return View(comics);
         }
+
+        public IActionResult Detail(string title)
+        {
+            // Đường dẫn tới folder truyện cụ thể
+            var comicPath = Path.Combine(_comicsDirectory, title);
+
+            if (!Directory.Exists(comicPath))
+            {
+                return NotFound();
+            }
+
+            var chapterFolders = Directory.GetDirectories(comicPath).Select(Path.GetFileName).OrderBy(chap => chap).ToList();
+            var comic = new Comic
+            {
+                Title = title,
+                Cover = $"/comic/{title}/0.jpg",
+                LatestChap = chapterFolders.LastOrDefault(),
+                Chapters = chapterFolders
+            };
+
+            return View(comic);
+        }
+
+        public IActionResult Chapter(string title, string chapter)
+        {
+            var comicPath = Path.Combine(_comicsDirectory, title);
+            var chapterPath = Path.Combine(comicPath, chapter);
+
+            if (!Directory.Exists(chapterPath))
+            {
+                return NotFound();
+            }
+
+            var imageFiles = Directory.GetFiles(chapterPath, "*.jpg").OrderBy(f => f).Select(Path.GetFileName).ToList();
+
+            // Chỉnh sửa ở đây
+            int currentChapterIndex;
+            if (chapter.StartsWith("chap", StringComparison.OrdinalIgnoreCase))
+            {
+                currentChapterIndex = int.Parse(chapter.Replace("chap", ""));
+            }
+            else
+            {
+                return NotFound(); // Trường hợp không hợp lệ
+            }
+
+            var comicModel = new
+            {
+                Title = title,
+                Chapter = chapter,
+                Images = imageFiles,
+                CurrentChapterIndex = currentChapterIndex // Sử dụng biến đã điều chỉnh
+            };
+
+            return View(comicModel);
+        }
+
+
+
     }
 }
