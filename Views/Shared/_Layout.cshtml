@@ -17,7 +17,23 @@
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
+<<<<<<< HEAD
                
+=======
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Comics" asp-action="Index">Comics</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Hot">Truyen Hot</a>
+                        </li>
+                    </ul>
+                </div>
+>>>>>>> 12252ab07cc7a332d2796540d58fabfa20c532f0
             </div>
         </nav>
     </header>
@@ -27,9 +43,37 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
+    <footer class="border-top footer text-muted" style="background-color: rgb(34, 34, 34); padding: 20px 0;">
+
         <div class="container">
-            &copy; 2024 - WebTruyen - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            <div class="row">
+
+                <div class= "col-sm-4 copyright" >
+
+                    <img class="logo" src="https://nettruyenww.com/public/assets/images/logo-nettruyen.png" alt="Logo" />
+
+                     <p class="link"> 
+                        <a href="#"> Giới thiệu </a> 
+                        |
+                        <a href="#"> Liên hệ </a> 
+                     </p>
+
+                     <p class="link"> 
+                        <a href="#"> Điều khoản  </a> 
+                        |
+                        <a href="#"> Chính sách bảo mật </a> 
+                     </p>
+
+                     <h4 style="font-size: 20px; margin-bottom: 5px;"> Liên hệ đặt quảng cáo</h4>
+                     
+                      
+
+                     &copy; 2024 - WebTruyen - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+
+                </div>
+
+            </div>           
+           
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>

@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\WebTruyen.csproj": {}
   },
   "projects": {
@@ -12,13 +13,27 @@
         "projectPath": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\WebTruyen.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\obj\\",
+=======
+    "D:\\STD\\Git file\\WebTrom\\WebTruyen.csproj": {}
+  },
+  "projects": {
+    "D:\\STD\\Git file\\WebTrom\\WebTruyen.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\STD\\Git file\\WebTrom\\WebTruyen.csproj",
+        "projectName": "WebTruyen",
+        "projectPath": "D:\\STD\\Git file\\WebTrom\\WebTruyen.csproj",
+        "packagesPath": "C:\\Users\\TN\\.nuget\\packages\\",
+        "outputPath": "D:\\STD\\Git file\\WebTrom\\obj\\",
+>>>>>>> 12252ab07cc7a332d2796540d58fabfa20c532f0
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+          "C:\\Users\\TN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 12252ab07cc7a332d2796540d58fabfa20c532f0
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -68,7 +83,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 12252ab07cc7a332d2796540d58fabfa20c532f0
         }
       }
     }

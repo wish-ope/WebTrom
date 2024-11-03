@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "tG3F+jfVtqk=",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\WebTruyen.csproj",
+=======
+  "dgSpecHash": "ICBUocbQbwc=",
+  "success": true,
+  "projectFilePath": "D:\\STD\\Git file\\WebTrom\\WebTruyen.csproj",
+>>>>>>> 12252ab07cc7a332d2796540d58fabfa20c532f0
   "expectedPackageFiles": [],
   "logs": []
 }

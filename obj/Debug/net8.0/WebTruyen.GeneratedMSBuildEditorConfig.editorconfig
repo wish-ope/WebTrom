@@ -9,12 +9,17 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebTruyen
 build_property.RootNamespace = WebTruyen
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Admin\Desktop\thai binh duong\ThucHanh\50\WebTrom\
+=======
+build_property.ProjectDir = D:\STD\Git file\WebTrom\
+>>>>>>> 12252ab07cc7a332d2796540d58fabfa20c532f0
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+<<<<<<< HEAD
 build_property.MSBuildProjectDirectory = C:\Users\Admin\Desktop\thai binh duong\ThucHanh\50\WebTrom
 build_property._RazorSourceGeneratorDebug = 
 
@@ -55,5 +60,51 @@ build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Admin/Desktop/thai binh duong/ThucHanh/50/WebTrom/Views/Shared/_Layout.cshtml]
+=======
+build_property.MSBuildProjectDirectory = D:\STD\Git file\WebTrom
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/STD/Git file/WebTrom/Views/Comics/Chapter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29taWNzXENoYXB0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STD/Git file/WebTrom/Views/Comics/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29taWNzXERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STD/Git file/WebTrom/Views/Comics/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29taWNzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STD/Git file/WebTrom/Views/Home/Hot.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STD/Git file/WebTrom/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STD/Git file/WebTrom/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STD/Git file/WebTrom/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STD/Git file/WebTrom/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STD/Git file/WebTrom/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STD/Git file/WebTrom/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STD/Git file/WebTrom/Views/Shared/_Layout.cshtml]
+>>>>>>> 12252ab07cc7a332d2796540d58fabfa20c532f0
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-5v4uaxoyfo
