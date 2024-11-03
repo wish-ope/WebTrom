@@ -1,10 +1,14 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+  "Hash": "9J9jR5/AdAy3NXer5ehbxeEbFFddBI79gePWro+kd/g=",
+=======
+<<<<<<< HEAD
   "Hash": "EPFyqdKdB8RuUYCGV5Rduavu7IWkahm9xMW5XoM3fgQ=",
 =======
   "Hash": "pvyKsJCgCN/8OpTUqKvKvQIljI/ksjI4wGjsnUaFx3Y=",
 >>>>>>> 12252ab07cc7a332d2796540d58fabfa20c532f0
+>>>>>>> 016585212008688e58fb3316fb16db679b030727
   "Source": "WebTruyen",
   "BasePath": "_content/WebTruyen",
   "Mode": "Default",
@@ -7052,11 +7056,33 @@
     },
     {
 <<<<<<< HEAD
+      "Identity": "D:\\STD\\Git file\\WebTrom\\wwwroot\\Icon-search\\search-icon-free-vector.jpg",
+      "SourceId": "WebTruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\STD\\Git file\\WebTrom\\wwwroot\\",
+      "BasePath": "_content/WebTruyen",
+      "RelativePath": "Icon-search/search-icon-free-vector.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Icon-search\\search-icon-free-vector.jpg"
+    },
+    {
+=======
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\wwwroot\\js\\site.js",
       "SourceId": "WebTruyen",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\wwwroot\\",
 =======
+>>>>>>> 016585212008688e58fb3316fb16db679b030727
       "Identity": "D:\\STD\\Git file\\WebTrom\\wwwroot\\js\\site.js",
       "SourceId": "WebTruyen",
       "SourceType": "Discovered",

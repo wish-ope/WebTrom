@@ -76,8 +76,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29taWNzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/STD/Git file/WebTrom/Views/Home/Hot.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb3QuY3NodG1s
+[D:/STD/Git file/WebTrom/Views/Home/DangNhap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYW5nTmhhcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STD/Git file/WebTrom/Views/Home/DangXuat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYW5nWHVhdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/STD/Git file/WebTrom/Views/Home/Index.cshtml]
