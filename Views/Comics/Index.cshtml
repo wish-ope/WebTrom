@@ -8,34 +8,32 @@
     <title>Đọc Truyện Tranh</title>
     <style>
         body {
-            font-family: Arial, sans-serif; /* Chọn font cho trang */
-            background-color: #f4f4f4; /* Màu nền cho trang */
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
             margin: 0;
             padding: 20px;
         }
 
         .comic-gallery {
             display: flex;
-            flex-wrap: wrap; /* Cho phép các phần tử xuống hàng */
-            justify-content: space-between; /* Căn đều khoảng cách giữa các phần tử */
+            flex-wrap: wrap;
+            justify-content: space-between;
         }
 
         .comic-item {
-            width: 23%; /* Điều chỉnh kích thước phần tử */
-            padding: 10px;
+            min-width: 1%; 
             box-sizing: border-box;
-            text-align: center;
-            margin-bottom: 20px; /* Thêm khoảng cách giữa các hàng */
+            padding: 5px;
         }
 
         .container {
             position: relative;
-            width: 100%; /* Chiếm toàn bộ chiều rộng của comic-item */
+            width: 100%;
             overflow: hidden;
         }
 
         .image-champ {
-            width: 100%; /* Đảm bảo ảnh chiếm toàn bộ chiều rộng */
+            width: 100%;
             height: auto;
             object-fit: cover;
             transition: transform 0.7s;
@@ -53,44 +51,63 @@
             left: 0;
             background-color: rgba(40, 40, 43, 0.9);
             border-top: 1px solid #927345;
-            padding: 10px;
+            padding: 5px;
             text-align: center;
-            transition: .4s;
-            font-size: 10px;
+            font-size: 9px; /* Adjusted font for compactness */
             color: rgba(255, 255, 59, 0.877);
+            transition: .4s;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
         }
 
             .copy_xxN7 h1 {
-                text-align: center; /* Căn giữa tiêu đề */
-                color: #333; /* Màu chữ tiêu đề */
-                font-size: 13px;
-                color: rgba(255, 255, 255);
+                color: #fff;
+                font-size: 11px; /* Reduced font size */
+                margin: 0;
             }
 
+        .latest-chapter {
+            display: none;
+            font-size: 8px;
+            color: rgba(255, 255, 255, 0.8);
+            margin-top: 3px;
+        }
+
+        .comic-item:hover .latest-chapter {
+            display: block;
+        }
+
         .carousel {
+            overflow: hidden;
             position: relative;
-            width: 100%; /* Đảm bảo chiều rộng chiếm toàn bộ */
-            max-width: none; /* Bỏ giới hạn tối đa */
-            margin: auto;
-            overflow: hidden; /* Ẩn phần hình ảnh vượt ra ngoài */
+            width: 100%; /* Giữ nguyên chiều rộng 100% cho carousel */
+            height: 200px; /* Chiều cao cố định */
         }
 
         .carousel-inner {
             display: flex;
-            transition: transform 0.5s ease; /* Hiệu ứng chuyển động */
-            width: calc(100% * (Model.Count() / 8)); /* Đặt chiều rộng theo số lượng item */
+            transition: transform 0.5s ease;
+            width: max-content;
         }
+
+            .carousel-inner .comic-item {
+                flex: 0 0 4%; /* Đặt kích thước cho mỗi comic-item để hiển thị 5-6 ảnh */
+                box-sizing: border-box;
+                padding: 0 5px; /* Khoảng cách giữa các ảnh */
+                height: 100%; /* Chiều cao bằng với chiều cao của carousel */
+            }
+           
 
         .carousel-item {
-            display: flex; /* Sử dụng flexbox để căn giữa các item */
-            justify-content: space-between; /* Căn đều khoảng cách giữa các phần tử */
-            min-width: 100%; /* Mỗi mục chiếm toàn bộ chiều rộng */
+            display: flex;
+            justify-content: space-between;
+            min-width: 100%;
         }
 
-
             .carousel-item img {
-                width: 100%; /* Đảm bảo hình ảnh chiếm toàn bộ chiều rộng */
-                border-radius: 10px; /* Bo góc hình ảnh */
+                width: 100%; /* Ensure the image occupies full width */
+                border-radius: 10px;
             }
 
         .carousel-button {
@@ -100,23 +117,49 @@
             background-color: rgba(255, 255, 255, 0.5);
             border: none;
             cursor: pointer;
-            padding: 10px;
+            padding: 5px;
+            font-size: 14px;
         }
 
         .prev {
-            left: 10px; /* Vị trí nút trước */
+            left: 10px;
         }
 
         .next {
-            right: 10px; /* Vị trí nút sau */
+            right: 10px;
         }
     </style>
+
+
 </head>
 <body>
 
-    
+    <h1> Truyện đề cử </h1>
+    <div class="carousel">
+        <div class="carousel-inner">
+            @for (int i = 0; i < Model.Count(); i++)
+            {
+                var comic = Model.ElementAt(i);
+                <div class="comic-item">
+                    <a href="/Comics/Detail?title=@comic.Title">
+                        <div class="container">
+                            <img src="@comic.Cover" class="image-champ" alt="@comic.Title Cover" loading="lazy" />
+                            <div class="copy_xxN7">
+                                <h1>@comic.Title</h1>
+                                <p class="latest-chapter">Latest Chapter: @comic.LatestChap</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            }
+        </div>
+        <button class="carousel-button prev" onclick="moveSlide(-1)">&#10094;</button>
+        <button class="carousel-button next" onclick="moveSlide(1)">&#10095;</button>
+    </div>
 
-    <h1>Truyện Đề Cử</h1>
+
+
+    <h1>Truyện mới cập nhật</h1>
     <div class="comic-gallery">
         @foreach (var comic in Model)
         {
@@ -133,57 +176,43 @@
             </div>
         }
     </div>
-    <div class="carousel">
-    <div class="carousel-inner">
-        @for (int i = 0; i < Model.Count(); i += 8)
-        {
-            <div class="carousel-item @if (i == 0) { <text>active</text>; }">
-                @for (int j = i; j < i + 8 && j < Model.Count(); j++)
-                {
-                    var comic = Model.ElementAt(j);
-                    <div class="comic-item">
-                        <a href="/Comics/Detail?title=@comic.Title">
-                            <div class="container">
-                                <img src="@comic.Cover" class="image-champ" alt="@comic.Title Cover" loading="lazy" />
-                                <div class="copy_xxN7">
-                                    <h1>@comic.Title</h1>
-                                    <p>Latest Chapter: @comic.LatestChap</p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                }
-            </div>
-        }
-    </div>
-    <button class="carousel-button prev" onclick="moveSlide(-1)">&#10094;</button>
-    <button class="carousel-button next" onclick="moveSlide(1)">&#10095;</button>
-</div>
-
+   
 
    
     <script>
         let currentIndex = 0;
-        const items = document.querySelectorAll('.carousel-item');
-
-        function updateCarousel() {
-            items.forEach((item, index) => {
-                item.style.display = index === currentIndex ? 'flex' : 'none'; // Chỉ hiển thị mục hiện tại
-            });
-        }
+        const totalItems = document.querySelectorAll('.carousel-inner .comic-item').length;
+        const itemsPerView = 8;
+        const itemWidth = 12.5; // Percentage width of each item (100% / 8 items per view)
 
         function moveSlide(direction) {
+            // Update currentIndex with wrap-around behavior
             currentIndex += direction;
             if (currentIndex < 0) {
-                currentIndex = Math.ceil(items.length / 8) - 1; // Quay về cuối
-            } else if (currentIndex >= items.length) {
-                currentIndex = 0; // Quay về đầu
+                currentIndex = totalItems - itemsPerView;
+            } else if (currentIndex > totalItems - itemsPerView) {
+                currentIndex = 0;
             }
-            updateCarousel();
+
+            // Slide by adjusting the transform property based on current index
+            document.querySelector('.carousel-inner').style.transform = `translateX(-${currentIndex * itemWidth}%)`;
         }
 
-        // Khởi động hiển thị đầu tiên
-        updateCarousel();
+        document.addEventListener("DOMContentLoaded", function () {
+            const copyElements = document.querySelectorAll('.copy_xxN7');
+            let maxHeight = 0;
+
+            // Find the maximum height of all .copy_xxN7 elements
+            copyElements.forEach(el => {
+                const height = el.offsetHeight;
+                if (height > maxHeight) maxHeight = height;
+            });
+
+            // Set each .copy_xxN7 element to the maximum height
+            copyElements.forEach(el => {
+                el.style.height = maxHeight + 'px';
+            });
+        });
 
     </script>
 

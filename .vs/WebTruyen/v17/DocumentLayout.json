@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\STD\\Git file\\WebTrom\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|d:\\std\\git file\\webtrom\\views\\home\\hot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\home\\hot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|d:\\std\\git file\\webtrom\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|d:\\std\\git file\\webtrom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|d:\\std\\git file\\webtrom\\views\\comics\\chapter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\comics\\chapter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|d:\\std\\git file\\webtrom\\views\\comics\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\comics\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|d:\\std\\git file\\webtrom\\views\\comics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\comics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|d:\\std\\git file\\webtrom\\views\\home\\hot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\home\\hot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|d:\\std\\git file\\webtrom\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -31,28 +47,12 @@
       "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:models\\comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|d:\\std\\git file\\webtrom\\views\\comics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\comics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|d:\\std\\git file\\webtrom\\views\\comics\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\comics\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|d:\\std\\git file\\webtrom\\views\\comics\\chapter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\comics\\chapter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|d:\\std\\git file\\webtrom\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|d:\\std\\git file\\webtrom\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|d:\\std\\git file\\webtrom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|d:\\std\\git file\\webtrom\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,85 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Hot.cshtml",
-              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Views\\Home\\Hot.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Hot.cshtml",
-              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Views\\Home\\Hot.cshtml",
-              "RelativeToolTip": "Views\\Home\\Hot.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T09:23:57.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T07:33:20.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ComicsController.cs",
-              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Controllers\\ComicsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ComicsController.cs",
-              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Controllers\\ComicsController.cs",
-              "RelativeToolTip": "Controllers\\ComicsController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAiwBwAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T03:28:46.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T03:01:46.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T07:34:52.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKwAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T03:02:06.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Comic.cs",
               "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Models\\Comic.cs",
               "RelativeDocumentMoniker": "Models\\Comic.cs",
@@ -164,12 +86,63 @@
               "RelativeToolTip": "Models\\Comic.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T03:28:08.414Z",
+              "WhenOpened": "2024-11-01T03:28:08.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Views\\Comics\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Comics\\Index.cshtml",
+              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Views\\Comics\\Index.cshtml",
+              "RelativeToolTip": "Views\\Comics\\Index.cshtml",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAANIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T03:30:27.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
+              "Title": "Hot.cshtml",
+              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Views\\Home\\Hot.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Hot.cshtml",
+              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Views\\Home\\Hot.cshtml",
+              "RelativeToolTip": "Views\\Home\\Hot.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T09:23:57.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADAAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T07:33:20.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Views\\Comics\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Comics\\Detail.cshtml",
+              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Views\\Comics\\Detail.cshtml",
+              "RelativeToolTip": "Views\\Comics\\Detail.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T07:09:13.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Chapter.cshtml",
               "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Views\\Comics\\Chapter.cshtml",
               "RelativeDocumentMoniker": "Views\\Comics\\Chapter.cshtml",
@@ -182,33 +155,68 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:31:02.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Views\\Comics\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Comics\\Index.cshtml",
-              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Views\\Comics\\Index.cshtml",
-              "RelativeToolTip": "Views\\Comics\\Index.cshtml",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAAAG8AAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKwAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T03:30:27.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T03:02:06.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T07:34:52.967Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Views\\Comics\\Detail.cshtml",
-              "RelativeDocumentMoniker": "Views\\Comics\\Detail.cshtml",
-              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Views\\Comics\\Detail.cshtml",
-              "RelativeToolTip": "Views\\Comics\\Detail.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T07:09:13.735Z",
-              "EditorCaption": ""
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:01:46.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
+              "Title": "ComicsController.cs",
+              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Controllers\\ComicsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ComicsController.cs",
+              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Controllers\\ComicsController.cs",
+              "RelativeToolTip": "Controllers\\ComicsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwBwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:28:46.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -220,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -241,18 +249,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T03:01:43.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T03:31:02.805Z"
             },
             {
               "$type": "Document",
