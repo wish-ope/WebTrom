@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pvyKsJCgCN/8OpTUqKvKvQIljI/ksjI4wGjsnUaFx3Y=",
+  "Hash": "9J9jR5/AdAy3NXer5ehbxeEbFFddBI79gePWro+kd/g=",
   "Source": "WebTruyen",
   "BasePath": "_content/WebTruyen",
   "Mode": "Default",
@@ -5145,6 +5145,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\STD\\Git file\\WebTrom\\wwwroot\\Icon-search\\search-icon-free-vector.jpg",
+      "SourceId": "WebTruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\STD\\Git file\\WebTrom\\wwwroot\\",
+      "BasePath": "_content/WebTruyen",
+      "RelativePath": "Icon-search/search-icon-free-vector.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Icon-search\\search-icon-free-vector.jpg"
     },
     {
       "Identity": "D:\\STD\\Git file\\WebTrom\\wwwroot\\js\\site.js",

@@ -23,6 +23,16 @@ namespace WebTruyen.Controllers
             return View();
         }
 
+        public IActionResult DangNhap()
+        {
+            return View();
+        }
+
+        public IActionResult DangXuat()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

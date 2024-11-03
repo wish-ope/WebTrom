@@ -41,9 +41,36 @@ button.accept-policy[b-5v4uaxoyfo] {
 }
 
 .footer[b-5v4uaxoyfo] {
-  position: absolute;
+  position: relative;
   bottom: 0;
   width: 100%;
   white-space: nowrap;
   line-height: 60px;
+}
+
+.logo[b-5v4uaxoyfo] {
+    height: 40px; /* Điều chỉnh chiều cao của logo */
+    margin-right: 10px; /* Khoảng cách giữa logo và nút "Thể loại" */
+}
+
+.TimTruyen[b-5v4uaxoyfo] {
+    padding: 5px; /* Padding cho ô tìm truyện */
+    border: 1px solid #ccc; /* Khung cho ô tìm truyện */
+    border-radius: 4px; /* Bo góc cho ô tìm truyện */
+}
+
+.input-group[b-5v4uaxoyfo] {
+    width: 100%; /* Đảm bảo input group chiếm toàn bộ không gian */
+}
+
+    .input-group .btn[b-5v4uaxoyfo] {
+        margin-left: -1px; /* Đẩy nút vào sát ô tìm kiếm */
+    }
+
+.d-flex[b-5v4uaxoyfo] {
+    margin-left: auto; /* Đẩy các nút Đăng nhập và Đăng xuất sang bên phải */
+}
+
+.nav-item[b-5v4uaxoyfo] {
+    margin-left: 10px; /* Khoảng cách giữa các nút điều hướng */
 }
