@@ -9,51 +9,51 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebTruyen
 build_property.RootNamespace = WebTruyen
-build_property.ProjectDir = C:\Cong nghe web\New folder\WebTrom\
+build_property.ProjectDir = C:\Users\Admin\Desktop\thai binh duong\ThucHanh\50\WebTrom\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Cong nghe web\New folder\WebTrom
+build_property.MSBuildProjectDirectory = C:\Users\Admin\Desktop\thai binh duong\ThucHanh\50\WebTrom
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Cong nghe web/New folder/WebTrom/Views/Comics/Chapter.cshtml]
+[C:/Users/Admin/Desktop/thai binh duong/ThucHanh/50/WebTrom/Views/Comics/Chapter.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29taWNzXENoYXB0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Cong nghe web/New folder/WebTrom/Views/Comics/Detail.cshtml]
+[C:/Users/Admin/Desktop/thai binh duong/ThucHanh/50/WebTrom/Views/Comics/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29taWNzXERldGFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Cong nghe web/New folder/WebTrom/Views/Comics/Index.cshtml]
+[C:/Users/Admin/Desktop/thai binh duong/ThucHanh/50/WebTrom/Views/Comics/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29taWNzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Cong nghe web/New folder/WebTrom/Views/Home/Index.cshtml]
+[C:/Users/Admin/Desktop/thai binh duong/ThucHanh/50/WebTrom/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Cong nghe web/New folder/WebTrom/Views/Home/Privacy.cshtml]
+[C:/Users/Admin/Desktop/thai binh duong/ThucHanh/50/WebTrom/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Cong nghe web/New folder/WebTrom/Views/Shared/Error.cshtml]
+[C:/Users/Admin/Desktop/thai binh duong/ThucHanh/50/WebTrom/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Cong nghe web/New folder/WebTrom/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Admin/Desktop/thai binh duong/ThucHanh/50/WebTrom/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Cong nghe web/New folder/WebTrom/Views/_ViewImports.cshtml]
+[C:/Users/Admin/Desktop/thai binh duong/ThucHanh/50/WebTrom/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Cong nghe web/New folder/WebTrom/Views/_ViewStart.cshtml]
+[C:/Users/Admin/Desktop/thai binh duong/ThucHanh/50/WebTrom/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Cong nghe web/New folder/WebTrom/Views/Shared/_Layout.cshtml]
+[C:/Users/Admin/Desktop/thai binh duong/ThucHanh/50/WebTrom/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-5v4uaxoyfo

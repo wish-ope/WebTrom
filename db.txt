@@ -1,0 +1,199 @@
+/*==============================================================*/
+/* DBMS name:      Microsoft SQL Server 2008                    */
+/* Created on:     11/3/2024 3:06:53 PM                         */
+/*==============================================================*/
+
+
+if exists (select 1
+   from sys.sysreferences r join sys.sysobjects o on (o.id = r.constid and o.type = 'F')
+   where r.fkeyid = object_id('CO') and o.name = 'FK_CO_CO_TRUYEN')
+alter table CO
+   drop constraint FK_CO_CO_TRUYEN
+go
+
+if exists (select 1
+   from sys.sysreferences r join sys.sysobjects o on (o.id = r.constid and o.type = 'F')
+   where r.fkeyid = object_id('CO') and o.name = 'FK_CO_CO2_THELOAI')
+alter table CO
+   drop constraint FK_CO_CO2_THELOAI
+go
+
+if exists (select 1
+   from sys.sysreferences r join sys.sysobjects o on (o.id = r.constid and o.type = 'F')
+   where r.fkeyid = object_id('THEO_DOI') and o.name = 'FK_THEO_DOI_THEO_DOI_TRUYEN')
+alter table THEO_DOI
+   drop constraint FK_THEO_DOI_THEO_DOI_TRUYEN
+go
+
+if exists (select 1
+   from sys.sysreferences r join sys.sysobjects o on (o.id = r.constid and o.type = 'F')
+   where r.fkeyid = object_id('THEO_DOI') and o.name = 'FK_THEO_DOI_THEO_DOI2_NGUOIDUN')
+alter table THEO_DOI
+   drop constraint FK_THEO_DOI_THEO_DOI2_NGUOIDUN
+go
+
+if exists (select 1
+   from sys.sysreferences r join sys.sysobjects o on (o.id = r.constid and o.type = 'F')
+   where r.fkeyid = object_id('VIET') and o.name = 'FK_VIET_VIET_TACGIA')
+alter table VIET
+   drop constraint FK_VIET_VIET_TACGIA
+go
+
+if exists (select 1
+   from sys.sysreferences r join sys.sysobjects o on (o.id = r.constid and o.type = 'F')
+   where r.fkeyid = object_id('VIET') and o.name = 'FK_VIET_VIET2_TRUYEN')
+alter table VIET
+   drop constraint FK_VIET_VIET2_TRUYEN
+go
+
+if exists (select 1
+            from  sysobjects
+           where  id = object_id('CO')
+            and   type = 'U')
+   drop table CO
+go
+
+if exists (select 1
+            from  sysobjects
+           where  id = object_id('NGUOIDUNG')
+            and   type = 'U')
+   drop table NGUOIDUNG
+go
+
+if exists (select 1
+            from  sysobjects
+           where  id = object_id('TACGIA')
+            and   type = 'U')
+   drop table TACGIA
+go
+
+if exists (select 1
+            from  sysobjects
+           where  id = object_id('THELOAI')
+            and   type = 'U')
+   drop table THELOAI
+go
+
+if exists (select 1
+            from  sysobjects
+           where  id = object_id('THEO_DOI')
+            and   type = 'U')
+   drop table THEO_DOI
+go
+
+if exists (select 1
+            from  sysobjects
+           where  id = object_id('TRUYEN')
+            and   type = 'U')
+   drop table TRUYEN
+go
+
+if exists (select 1
+            from  sysobjects
+           where  id = object_id('VIET')
+            and   type = 'U')
+   drop table VIET
+go
+
+/*==============================================================*/
+/* Table: CO                                                    */
+/*==============================================================*/
+create table CO (
+   IDTRUYEN             INT           not null,
+   IDTHELOAI            INT          not null,
+   constraint PK_CO primary key (IDTRUYEN, IDTHELOAI)
+)
+go
+
+/*==============================================================*/
+/* Table: NGUOIDUNG                                             */
+/*==============================================================*/
+create table NGUOIDUNG (
+   IDUSER               INT IDENTITY(1,1)           not null,
+   USERNAME             varchar(20)          null,
+   constraint PK_NGUOIDUNG primary key nonclustered (IDUSER)
+)
+go
+
+/*==============================================================*/
+/* Table: TACGIA                                                */
+/*==============================================================*/
+create table TACGIA (
+   IDTACGIA             INT IDENTITY(1,1)          not null,
+   TENTACGIA            varchar(20)          null,
+   constraint PK_TACGIA primary key nonclustered (IDTACGIA)
+)
+go
+
+/*==============================================================*/
+/* Table: THELOAI                                               */
+/*==============================================================*/
+create table THELOAI (
+   IDTHELOAI            INT IDENTITY(1,1)          not null, 
+   TENTHELOAI           varchar(20)          null,
+   constraint PK_THELOAI primary key nonclustered (IDTHELOAI)
+)
+go
+
+/*==============================================================*/
+/* Table: THEO_DOI                                              */
+/*==============================================================*/
+create table THEO_DOI (
+   IDTRUYEN             INT           not null,
+   IDUSER               INT           not null,
+   constraint PK_THEO_DOI primary key (IDTRUYEN, IDUSER)
+)
+go
+
+/*==============================================================*/
+/* Table: TRUYEN                                                */
+/*==============================================================*/
+create table TRUYEN (
+   IDTRUYEN             INT IDENTITY(1,1)           not null,
+   TENTRUYEN            varchar(50)          null,
+   MOTA                 text                 null,
+   TRANGTHAI            varchar(20)          null,
+   constraint PK_TRUYEN primary key nonclustered (IDTRUYEN)
+)
+go
+
+/*==============================================================*/
+/* Table: VIET                                                  */
+/*==============================================================*/
+create table VIET (
+   IDTACGIA             INT          not null,
+   IDTRUYEN             INT           not null,
+   constraint PK_VIET primary key (IDTACGIA, IDTRUYEN)
+)
+go
+
+alter table CO
+   add constraint FK_CO_CO_TRUYEN foreign key (IDTRUYEN)
+      references TRUYEN (IDTRUYEN)
+go
+
+alter table CO
+   add constraint FK_CO_CO2_THELOAI foreign key (IDTHELOAI)
+      references THELOAI (IDTHELOAI)
+go
+
+alter table THEO_DOI
+   add constraint FK_THEO_DOI_THEO_DOI_TRUYEN foreign key (IDTRUYEN)
+      references TRUYEN (IDTRUYEN)
+go
+
+alter table THEO_DOI
+   add constraint FK_THEO_DOI_THEO_DOI2_NGUOIDUN foreign key (IDUSER)
+      references NGUOIDUNG (IDUSER)
+go
+
+alter table VIET
+   add constraint FK_VIET_VIET_TACGIA foreign key (IDTACGIA)
+      references TACGIA (IDTACGIA)
+go
+
+alter table VIET
+   add constraint FK_VIET_VIET2_TRUYEN foreign key (IDTRUYEN)
+      references TRUYEN (IDTRUYEN)
+go
+

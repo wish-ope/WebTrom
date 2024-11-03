@@ -1,62 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\STD\\Git file\\WebTrom\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|d:\\std\\git file\\webtrom\\views\\comics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\comics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|d:\\std\\git file\\webtrom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|d:\\std\\git file\\webtrom\\models\\comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:models\\comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|d:\\std\\git file\\webtrom\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|d:\\std\\git file\\webtrom\\controllers\\comicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:controllers\\comicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|d:\\std\\git file\\webtrom\\views\\comics\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\comics\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|d:\\std\\git file\\webtrom\\views\\comics\\chapter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\comics\\chapter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|d:\\std\\git file\\webtrom\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|d:\\std\\git file\\webtrom\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtrom\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|d:\\std\\git file\\webtrom\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtrom\\controllers\\comicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:controllers\\comicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|d:\\std\\git file\\webtrom\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtrom\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|d:\\std\\git file\\webtrom\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtrom\\models\\comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:models\\comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|d:\\std\\git file\\webtrom\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtrom\\views\\comics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\comics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtrom\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtrom\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtrom\\views\\comics\\chapter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\comics\\chapter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtrom\\views\\comics\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\comics\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtrom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtrom\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|d:\\std\\git file\\webtrom\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtrom\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtrom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtrom\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtrom\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\users\\admin\\desktop\\thai binh duong\\thuchanh\\50\\webtrom\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,141 +74,199 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "site.css",
-              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "D:\\STD\\Git file\\WebTrom\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-01T06:58:17.172Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T03:31:02.805Z",
+              "DocumentIndex": 11,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-03T05:50:29.181Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAArwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:31:02.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Views\\Comics\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\Views\\Comics\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Comics\\Index.cshtml",
-              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Views\\Comics\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\Views\\Comics\\Index.cshtml",
               "RelativeToolTip": "Views\\Comics\\Index.cshtml",
-              "ViewState": "AgIAANwAAAAAAAAAAAAAAO0AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAALgAAAAAAAAAAAAnwMgAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-01T03:30:27.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "ComicsController.cs",
-              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Controllers\\ComicsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\Controllers\\ComicsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ComicsController.cs",
-              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Controllers\\ComicsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\Controllers\\ComicsController.cs",
               "RelativeToolTip": "Controllers\\ComicsController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAiwBwAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwFQAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T03:28:46.544Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAKwAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T03:02:06.107Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Comic.cs",
-              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Models\\Comic.cs",
-              "RelativeDocumentMoniker": "Models\\Comic.cs",
-              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Models\\Comic.cs",
-              "RelativeToolTip": "Models\\Comic.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T03:28:08.414Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T03:01:43.324Z"
+              "WhenOpened": "2024-11-01T03:28:46.544Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Views\\Comics\\Detail.cshtml",
-              "RelativeDocumentMoniker": "Views\\Comics\\Detail.cshtml",
-              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Views\\Comics\\Detail.cshtml",
-              "RelativeToolTip": "Views\\Comics\\Detail.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAI4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T07:09:13.735Z"
+              "WhenOpened": "2024-11-01T03:02:06.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Comic.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\Models\\Comic.cs",
+              "RelativeDocumentMoniker": "Models\\Comic.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\Models\\Comic.cs",
+              "RelativeToolTip": "Models\\Comic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:28:08.414Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Chapter.cshtml",
-              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Views\\Comics\\Chapter.cshtml",
-              "RelativeDocumentMoniker": "Views\\Comics\\Chapter.cshtml",
-              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Views\\Comics\\Chapter.cshtml",
-              "RelativeToolTip": "Views\\Comics\\Chapter.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAADYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T07:14:01.083Z"
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:01:43.324Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAB8AAAAAAAAAA==",
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\Views\\Comics\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Comics\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\Views\\Comics\\Detail.cshtml",
+              "RelativeToolTip": "Views\\Comics\\Detail.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T07:33:20.08Z"
+              "WhenOpened": "2024-11-01T07:09:13.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Chapter.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\Views\\Comics\\Chapter.cshtml",
+              "RelativeDocumentMoniker": "Views\\Comics\\Chapter.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\Views\\Comics\\Chapter.cshtml",
+              "RelativeToolTip": "Views\\Comics\\Chapter.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEsAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T07:14:01.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T07:33:20.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:01:46.525Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ViewState": "AgIAAB4BAAAAAAAAAAAnwDEBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-03T05:50:59.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-01T06:58:17.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -208,11 +274,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -220,27 +286,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-01T03:01:55.118Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\STD\\Git file\\WebTrom\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\STD\\Git file\\WebTrom\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T03:01:46.525Z"
             }
           ]
         }
