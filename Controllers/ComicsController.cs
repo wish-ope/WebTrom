@@ -48,7 +48,6 @@ namespace WebTruyen.Controllers
 
         public IActionResult Detail(string title)
         {
-            // Đường dẫn tới folder truyện cụ thể
             var comicPath = Path.Combine(_comicsDirectory, title);
 
             if (!Directory.Exists(comicPath))
@@ -80,7 +79,6 @@ namespace WebTruyen.Controllers
 
             var imageFiles = Directory.GetFiles(chapterPath, "*.jpg").OrderBy(f => f).Select(Path.GetFileName).ToList();
 
-            // Chỉnh sửa ở đây
             int currentChapterIndex;
             if (chapter.StartsWith("chap", StringComparison.OrdinalIgnoreCase))
             {
@@ -88,7 +86,7 @@ namespace WebTruyen.Controllers
             }
             else
             {
-                return NotFound(); // Trường hợp không hợp lệ
+                return NotFound();
             }
 
             var comicModel = new
@@ -96,13 +94,10 @@ namespace WebTruyen.Controllers
                 Title = title,
                 Chapter = chapter,
                 Images = imageFiles,
-                CurrentChapterIndex = currentChapterIndex // Sử dụng biến đã điều chỉnh
+                CurrentChapterIndex = currentChapterIndex
             };
 
             return View(comicModel);
         }
-
-
-
     }
 }

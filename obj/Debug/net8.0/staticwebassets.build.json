@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RlmIlk0GFQ1JCFpA4zx3zFBOgUKzzjywzm7auZmxEGQ=",
+  "Hash": "FgCGL74Hao5EPEuTa6XGBnD+2TWgSyaFEtn9ATc7yfw=",
   "Source": "WebTruyen",
   "BasePath": "_content/WebTruyen",
   "Mode": "Default",
@@ -416,6 +416,25 @@
       "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (2)\\chap3\\6.JPG"
     },
     {
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (2)\\info.txt",
+      "SourceId": "WebTruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
+      "BasePath": "_content/WebTruyen",
+      "RelativePath": "comic/Quỷ kiếm darkin - Copy (2)/info.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (2)\\info.txt"
+    },
+    {
       "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (3)\\0.jpg",
       "SourceId": "WebTruyen",
       "SourceType": "Discovered",
@@ -775,6 +794,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (3)\\chap3\\6.JPG"
+    },
+    {
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (3)\\info.txt",
+      "SourceId": "WebTruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
+      "BasePath": "_content/WebTruyen",
+      "RelativePath": "comic/Quỷ kiếm darkin - Copy (3)/info.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (3)\\info.txt"
     },
     {
       "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (4)\\0.jpg",
@@ -1138,12 +1176,12 @@
       "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (4)\\chap3\\6.JPG"
     },
     {
-      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\0.jpg",
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (4)\\info.txt",
       "SourceId": "WebTruyen",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
       "BasePath": "_content/WebTruyen",
-      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)/0.jpg",
+      "RelativePath": "comic/Quỷ kiếm darkin - Copy (4)/info.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1154,15 +1192,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\0.jpg"
+      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (4)\\info.txt"
     },
     {
-      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\1.jpg",
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\0.jpg",
       "SourceId": "WebTruyen",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
       "BasePath": "_content/WebTruyen",
-      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)/chap1/1.jpg",
+      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh/0.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1173,15 +1211,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\1.jpg"
+      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\0.jpg"
     },
     {
-      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\2.jpg",
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap1\\1.jpg",
       "SourceId": "WebTruyen",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
       "BasePath": "_content/WebTruyen",
-      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)/chap1/2.jpg",
+      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh/chap1/1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1192,15 +1230,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\2.jpg"
+      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap1\\1.jpg"
     },
     {
-      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\3.jpg",
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap1\\2.jpg",
       "SourceId": "WebTruyen",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
       "BasePath": "_content/WebTruyen",
-      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)/chap1/3.jpg",
+      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh/chap1/2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1211,15 +1249,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\3.jpg"
+      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap1\\2.jpg"
     },
     {
-      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\4.jpg",
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap1\\3.jpg",
       "SourceId": "WebTruyen",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
       "BasePath": "_content/WebTruyen",
-      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)/chap1/4.jpg",
+      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh/chap1/3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1230,15 +1268,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\4.jpg"
+      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap1\\3.jpg"
     },
     {
-      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\5.jpg",
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap1\\4.jpg",
       "SourceId": "WebTruyen",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
       "BasePath": "_content/WebTruyen",
-      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)/chap1/5.jpg",
+      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh/chap1/4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1249,15 +1287,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\5.jpg"
+      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap1\\4.jpg"
     },
     {
-      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\6.JPG",
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap1\\5.jpg",
       "SourceId": "WebTruyen",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
       "BasePath": "_content/WebTruyen",
-      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)/chap1/6.JPG",
+      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh/chap1/5.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1268,15 +1306,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\6.JPG"
+      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap1\\5.jpg"
     },
     {
-      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\1.jpg",
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap1\\6.JPG",
       "SourceId": "WebTruyen",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
       "BasePath": "_content/WebTruyen",
-      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)/chap2/1.jpg",
+      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh/chap1/6.JPG",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1287,15 +1325,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\1.jpg"
+      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap1\\6.JPG"
     },
     {
-      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\2.jpg",
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap2\\1.jpg",
       "SourceId": "WebTruyen",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
       "BasePath": "_content/WebTruyen",
-      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)/chap2/2.jpg",
+      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh/chap2/1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1306,15 +1344,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\2.jpg"
+      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap2\\1.jpg"
     },
     {
-      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\3.jpg",
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap2\\2.jpg",
       "SourceId": "WebTruyen",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
       "BasePath": "_content/WebTruyen",
-      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)/chap2/3.jpg",
+      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh/chap2/2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1325,15 +1363,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\3.jpg"
+      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap2\\2.jpg"
     },
     {
-      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\4.jpg",
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap2\\3.jpg",
       "SourceId": "WebTruyen",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
       "BasePath": "_content/WebTruyen",
-      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)/chap2/4.jpg",
+      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh/chap2/3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1344,15 +1382,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\4.jpg"
+      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap2\\3.jpg"
     },
     {
-      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\5.jpg",
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap2\\4.jpg",
       "SourceId": "WebTruyen",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
       "BasePath": "_content/WebTruyen",
-      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)/chap2/5.jpg",
+      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh/chap2/4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1363,15 +1401,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\5.jpg"
+      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap2\\4.jpg"
     },
     {
-      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\6.JPG",
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap2\\5.jpg",
       "SourceId": "WebTruyen",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
       "BasePath": "_content/WebTruyen",
-      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)/chap2/6.JPG",
+      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh/chap2/5.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1382,15 +1420,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\6.JPG"
+      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap2\\5.jpg"
     },
     {
-      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\1.jpg",
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap2\\6.JPG",
       "SourceId": "WebTruyen",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
       "BasePath": "_content/WebTruyen",
-      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)/chap3/1.jpg",
+      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh/chap2/6.JPG",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1401,15 +1439,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\1.jpg"
+      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap2\\6.JPG"
     },
     {
-      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\2.jpg",
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap3\\1.jpg",
       "SourceId": "WebTruyen",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
       "BasePath": "_content/WebTruyen",
-      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)/chap3/2.jpg",
+      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh/chap3/1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1420,15 +1458,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\2.jpg"
+      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap3\\1.jpg"
     },
     {
-      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\3.jpg",
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap3\\2.jpg",
       "SourceId": "WebTruyen",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
       "BasePath": "_content/WebTruyen",
-      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)/chap3/3.jpg",
+      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh/chap3/2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1439,15 +1477,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\3.jpg"
+      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap3\\2.jpg"
     },
     {
-      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\4.jpg",
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap3\\3.jpg",
       "SourceId": "WebTruyen",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
       "BasePath": "_content/WebTruyen",
-      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)/chap3/4.jpg",
+      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh/chap3/3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1458,15 +1496,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\4.jpg"
+      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap3\\3.jpg"
     },
     {
-      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\5.jpg",
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap3\\4.jpg",
       "SourceId": "WebTruyen",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
       "BasePath": "_content/WebTruyen",
-      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)/chap3/5.jpg",
+      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh/chap3/4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1477,15 +1515,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\5.jpg"
+      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap3\\4.jpg"
     },
     {
-      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\6.JPG",
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap3\\5.jpg",
       "SourceId": "WebTruyen",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
       "BasePath": "_content/WebTruyen",
-      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)/chap3/6.JPG",
+      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh/chap3/5.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1496,7 +1534,45 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\6.JPG"
+      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap3\\5.jpg"
+    },
+    {
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap3\\6.JPG",
+      "SourceId": "WebTruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
+      "BasePath": "_content/WebTruyen",
+      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh/chap3/6.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap3\\6.JPG"
+    },
+    {
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\info.txt",
+      "SourceId": "WebTruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
+      "BasePath": "_content/WebTruyen",
+      "RelativePath": "comic/Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh/info.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\info.txt"
     },
     {
       "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy\\0.jpg",
@@ -1860,6 +1936,25 @@
       "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy\\chap3\\6.JPG"
     },
     {
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy\\info.txt",
+      "SourceId": "WebTruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
+      "BasePath": "_content/WebTruyen",
+      "RelativePath": "comic/Quỷ kiếm darkin - Copy/info.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin - Copy\\info.txt"
+    },
+    {
       "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin\\0.jpg",
       "SourceId": "WebTruyen",
       "SourceType": "Discovered",
@@ -2219,6 +2314,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin\\chap3\\6.JPG"
+    },
+    {
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin\\info.txt",
+      "SourceId": "WebTruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
+      "BasePath": "_content/WebTruyen",
+      "RelativePath": "comic/Quỷ kiếm darkin/info.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\comic\\Quỷ kiếm darkin\\info.txt"
     },
     {
       "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy (2) - Copy\\0.jpg",
@@ -2582,6 +2696,25 @@
       "OriginalItemSpec": "wwwroot\\comic\\Ta là tà đế - Copy (2) - Copy\\chap3\\6.JPG"
     },
     {
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy (2) - Copy\\info.txt",
+      "SourceId": "WebTruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
+      "BasePath": "_content/WebTruyen",
+      "RelativePath": "comic/Ta là tà đế - Copy (2) - Copy/info.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\comic\\Ta là tà đế - Copy (2) - Copy\\info.txt"
+    },
+    {
       "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy (2)\\0.jpg",
       "SourceId": "WebTruyen",
       "SourceType": "Discovered",
@@ -2941,6 +3074,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\comic\\Ta là tà đế - Copy (2)\\chap3\\6.JPG"
+    },
+    {
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy (2)\\info.txt",
+      "SourceId": "WebTruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
+      "BasePath": "_content/WebTruyen",
+      "RelativePath": "comic/Ta là tà đế - Copy (2)/info.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\comic\\Ta là tà đế - Copy (2)\\info.txt"
     },
     {
       "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy (3) - Copy\\0.jpg",
@@ -3304,6 +3456,25 @@
       "OriginalItemSpec": "wwwroot\\comic\\Ta là tà đế - Copy (3) - Copy\\chap3\\6.JPG"
     },
     {
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy (3) - Copy\\info.txt",
+      "SourceId": "WebTruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
+      "BasePath": "_content/WebTruyen",
+      "RelativePath": "comic/Ta là tà đế - Copy (3) - Copy/info.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\comic\\Ta là tà đế - Copy (3) - Copy\\info.txt"
+    },
+    {
       "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy (4) - Copy\\0.jpg",
       "SourceId": "WebTruyen",
       "SourceType": "Discovered",
@@ -3663,6 +3834,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\comic\\Ta là tà đế - Copy (4) - Copy\\chap3\\6.JPG"
+    },
+    {
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy (4) - Copy\\info.txt",
+      "SourceId": "WebTruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
+      "BasePath": "_content/WebTruyen",
+      "RelativePath": "comic/Ta là tà đế - Copy (4) - Copy/info.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\comic\\Ta là tà đế - Copy (4) - Copy\\info.txt"
     },
     {
       "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy (5) - Copy\\0.jpg",
@@ -4026,6 +4216,25 @@
       "OriginalItemSpec": "wwwroot\\comic\\Ta là tà đế - Copy (5) - Copy\\chap3\\6.JPG"
     },
     {
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy (5) - Copy\\info.txt",
+      "SourceId": "WebTruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
+      "BasePath": "_content/WebTruyen",
+      "RelativePath": "comic/Ta là tà đế - Copy (5) - Copy/info.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\comic\\Ta là tà đế - Copy (5) - Copy\\info.txt"
+    },
+    {
       "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy (6) - Copy\\0.jpg",
       "SourceId": "WebTruyen",
       "SourceType": "Discovered",
@@ -4385,6 +4594,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\comic\\Ta là tà đế - Copy (6) - Copy\\chap3\\6.JPG"
+    },
+    {
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy (6) - Copy\\info.txt",
+      "SourceId": "WebTruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
+      "BasePath": "_content/WebTruyen",
+      "RelativePath": "comic/Ta là tà đế - Copy (6) - Copy/info.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\comic\\Ta là tà đế - Copy (6) - Copy\\info.txt"
     },
     {
       "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy\\0.jpg",
@@ -4748,6 +4976,25 @@
       "OriginalItemSpec": "wwwroot\\comic\\Ta là tà đế - Copy\\chap3\\6.JPG"
     },
     {
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy\\info.txt",
+      "SourceId": "WebTruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
+      "BasePath": "_content/WebTruyen",
+      "RelativePath": "comic/Ta là tà đế - Copy/info.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\comic\\Ta là tà đế - Copy\\info.txt"
+    },
+    {
       "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế\\0.jpg",
       "SourceId": "WebTruyen",
       "SourceType": "Discovered",
@@ -5107,6 +5354,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\comic\\Ta là tà đế\\chap3\\6.JPG"
+    },
+    {
+      "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế\\info.txt",
+      "SourceId": "WebTruyen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\",
+      "BasePath": "_content/WebTruyen",
+      "RelativePath": "comic/Ta là tà đế/info.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\comic\\Ta là tà đế\\info.txt"
     },
     {
       "Identity": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\css\\site.css",

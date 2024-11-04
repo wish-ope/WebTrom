@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Nhập truyện mới";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form method="post" asp-controller="Comics" asp-action="ImportComics">
+    <button type="submit">Nhập tất cả truyện từ thư mục</button>
+</form>
+
+<div>
+    <p>Nhấn vào nút trên để tự động nhập các truyện từ thư mục.</p>
+</div>

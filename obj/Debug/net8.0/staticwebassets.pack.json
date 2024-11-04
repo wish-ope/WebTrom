@@ -81,6 +81,10 @@
       "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (2)\\chap3\\6.JPG"
     },
     {
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (2)\\info.txt",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (2)\\info.txt"
+    },
+    {
       "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (3)\\0.jpg",
       "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (3)\\0.jpg"
     },
@@ -155,6 +159,10 @@
     {
       "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (3)\\chap3\\6.JPG",
       "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (3)\\chap3\\6.JPG"
+    },
+    {
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (3)\\info.txt",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (3)\\info.txt"
     },
     {
       "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (4)\\0.jpg",
@@ -233,80 +241,88 @@
       "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (4)\\chap3\\6.JPG"
     },
     {
-      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\0.jpg",
-      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\0.jpg"
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (4)\\info.txt",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (4)\\info.txt"
     },
     {
-      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\1.jpg",
-      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\1.jpg"
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\0.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\0.jpg"
     },
     {
-      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\2.jpg",
-      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\2.jpg"
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap1\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap1\\1.jpg"
     },
     {
-      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\3.jpg",
-      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\3.jpg"
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap1\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap1\\2.jpg"
     },
     {
-      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\4.jpg",
-      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\4.jpg"
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap1\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap1\\3.jpg"
     },
     {
-      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\5.jpg",
-      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\5.jpg"
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap1\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap1\\4.jpg"
     },
     {
-      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\6.JPG",
-      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap1\\6.JPG"
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap1\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap1\\5.jpg"
     },
     {
-      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\1.jpg",
-      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\1.jpg"
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap1\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap1\\6.JPG"
     },
     {
-      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\2.jpg",
-      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\2.jpg"
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap2\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap2\\1.jpg"
     },
     {
-      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\3.jpg",
-      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\3.jpg"
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap2\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap2\\2.jpg"
     },
     {
-      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\4.jpg",
-      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\4.jpg"
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap2\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap2\\3.jpg"
     },
     {
-      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\5.jpg",
-      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\5.jpg"
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap2\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap2\\4.jpg"
     },
     {
-      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\6.JPG",
-      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap2\\6.JPG"
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap2\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap2\\5.jpg"
     },
     {
-      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\1.jpg",
-      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\1.jpg"
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap2\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap2\\6.JPG"
     },
     {
-      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\2.jpg",
-      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\2.jpg"
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap3\\1.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap3\\1.jpg"
     },
     {
-      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\3.jpg",
-      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\3.jpg"
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap3\\2.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap3\\2.jpg"
     },
     {
-      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\4.jpg",
-      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\4.jpg"
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap3\\3.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap3\\3.jpg"
     },
     {
-      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\5.jpg",
-      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\5.jpg"
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap3\\4.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap3\\4.jpg"
     },
     {
-      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\6.JPG",
-      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)\\chap3\\6.JPG"
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap3\\5.jpg",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap3\\5.jpg"
+    },
+    {
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap3\\6.JPG",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\chap3\\6.JPG"
+    },
+    {
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\info.txt",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy (5)hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\\info.txt"
     },
     {
       "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy\\0.jpg",
@@ -385,6 +401,10 @@
       "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy\\chap3\\6.JPG"
     },
     {
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin - Copy\\info.txt",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin - Copy\\info.txt"
+    },
+    {
       "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin\\0.jpg",
       "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin\\0.jpg"
     },
@@ -459,6 +479,10 @@
     {
       "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin\\chap3\\6.JPG",
       "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin\\chap3\\6.JPG"
+    },
+    {
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Quỷ kiếm darkin\\info.txt",
+      "PackagePath": "staticwebassets\\comic\\Quỷ kiếm darkin\\info.txt"
     },
     {
       "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy (2) - Copy\\0.jpg",
@@ -537,6 +561,10 @@
       "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2) - Copy\\chap3\\6.JPG"
     },
     {
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy (2) - Copy\\info.txt",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2) - Copy\\info.txt"
+    },
+    {
       "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy (2)\\0.jpg",
       "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2)\\0.jpg"
     },
@@ -611,6 +639,10 @@
     {
       "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy (2)\\chap3\\6.JPG",
       "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2)\\chap3\\6.JPG"
+    },
+    {
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy (2)\\info.txt",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (2)\\info.txt"
     },
     {
       "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy (3) - Copy\\0.jpg",
@@ -689,6 +721,10 @@
       "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (3) - Copy\\chap3\\6.JPG"
     },
     {
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy (3) - Copy\\info.txt",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (3) - Copy\\info.txt"
+    },
+    {
       "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy (4) - Copy\\0.jpg",
       "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (4) - Copy\\0.jpg"
     },
@@ -763,6 +799,10 @@
     {
       "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy (4) - Copy\\chap3\\6.JPG",
       "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (4) - Copy\\chap3\\6.JPG"
+    },
+    {
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy (4) - Copy\\info.txt",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (4) - Copy\\info.txt"
     },
     {
       "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy (5) - Copy\\0.jpg",
@@ -841,6 +881,10 @@
       "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (5) - Copy\\chap3\\6.JPG"
     },
     {
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy (5) - Copy\\info.txt",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (5) - Copy\\info.txt"
+    },
+    {
       "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy (6) - Copy\\0.jpg",
       "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (6) - Copy\\0.jpg"
     },
@@ -915,6 +959,10 @@
     {
       "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy (6) - Copy\\chap3\\6.JPG",
       "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (6) - Copy\\chap3\\6.JPG"
+    },
+    {
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy (6) - Copy\\info.txt",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy (6) - Copy\\info.txt"
     },
     {
       "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy\\0.jpg",
@@ -993,6 +1041,10 @@
       "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy\\chap3\\6.JPG"
     },
     {
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế - Copy\\info.txt",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế - Copy\\info.txt"
+    },
+    {
       "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế\\0.jpg",
       "PackagePath": "staticwebassets\\comic\\Ta là tà đế\\0.jpg"
     },
@@ -1067,6 +1119,10 @@
     {
       "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế\\chap3\\6.JPG",
       "PackagePath": "staticwebassets\\comic\\Ta là tà đế\\chap3\\6.JPG"
+    },
+    {
+      "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\comic\\Ta là tà đế\\info.txt",
+      "PackagePath": "staticwebassets\\comic\\Ta là tà đế\\info.txt"
     },
     {
       "Id": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\css\\site.css",

@@ -21,7 +21,10 @@
 //    pattern: "{controller=Home}/{action=Index}/{id?}");
 
 //app.Run();
+
+//////////////////
 var builder = WebApplication.CreateBuilder(args);
+
 
 builder.Services.AddControllersWithViews();
 
@@ -43,5 +46,4 @@ app.UseAuthorization();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Comics}/{action=Index}/{id?}");
-
 app.Run();

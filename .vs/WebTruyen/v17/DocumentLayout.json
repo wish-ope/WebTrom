@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "C:\\Cong nghe web\\New folder\\WebTrom\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder\\webtrom\\models\\comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:models\\comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder\\webtrom\\controllers\\comicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:controllers\\comicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder\\webtrom\\views\\comics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\comics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder\\webtrom\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder\\webtrom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder\\webtrom\\views\\comics\\chapter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\comics\\chapter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder\\webtrom\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder\\webtrom\\controllers\\comicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:controllers\\comicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder\\webtrom\\views\\comics\\importcomics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\comics\\importcomics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder\\webtrom\\webtruyen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:webtruyen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder\\webtrom\\views\\comics\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\comics\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder\\webtrom\\views\\comics\\chapter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\comics\\chapter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder\\webtrom\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -31,20 +55,8 @@
       "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder\\webtrom\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder\\webtrom\\models\\comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:models\\comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder\\webtrom\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder\\webtrom\\views\\comics\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|solutionrelative:views\\comics\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB8D5366-3ECF-4101-B2C3-4AEC38EBACC9}|WebTruyen.csproj|c:\\cong nghe web\\new folder\\webtrom\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -66,48 +78,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Cong nghe web\\New folder\\WebTrom\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Cong nghe web\\New folder\\WebTrom\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAArwCkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T03:31:02.805Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Cong nghe web\\New folder\\WebTrom\\Views\\Comics\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Comics\\Index.cshtml",
               "ToolTip": "C:\\Cong nghe web\\New folder\\WebTrom\\Views\\Comics\\Index.cshtml",
               "RelativeToolTip": "Views\\Comics\\Index.cshtml",
-              "ViewState": "AQIAAG4AAAAAAAAAAAAQwKEAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-01T03:30:27.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ComicsController.cs",
               "DocumentMoniker": "C:\\Cong nghe web\\New folder\\WebTrom\\Controllers\\ComicsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ComicsController.cs",
               "ToolTip": "C:\\Cong nghe web\\New folder\\WebTrom\\Controllers\\ComicsController.cs",
               "RelativeToolTip": "Controllers\\ComicsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAVAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAswD0AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T03:28:46.544Z"
+              "WhenOpened": "2024-11-01T03:28:46.544Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Cong nghe web\\New folder\\WebTrom\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -119,43 +120,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Comic.cs",
               "DocumentMoniker": "C:\\Cong nghe web\\New folder\\WebTrom\\Models\\Comic.cs",
               "RelativeDocumentMoniker": "Models\\Comic.cs",
               "ToolTip": "C:\\Cong nghe web\\New folder\\WebTrom\\Models\\Comic.cs",
               "RelativeToolTip": "Models\\Comic.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T03:28:08.414Z"
+              "WhenOpened": "2024-11-01T03:28:08.414Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
+              "Title": "ImportComics.cshtml",
+              "DocumentMoniker": "C:\\Cong nghe web\\New folder\\WebTrom\\Views\\Comics\\ImportComics.cshtml",
+              "RelativeDocumentMoniker": "Views\\Comics\\ImportComics.cshtml",
+              "ToolTip": "C:\\Cong nghe web\\New folder\\WebTrom\\Views\\Comics\\ImportComics.cshtml",
+              "RelativeToolTip": "Views\\Comics\\ImportComics.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T07:39:11.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Cong nghe web\\New folder\\WebTrom\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
               "ToolTip": "C:\\Cong nghe web\\New folder\\WebTrom\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T03:01:43.324Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\Cong nghe web\\New folder\\WebTrom\\Views\\Comics\\Detail.cshtml",
               "RelativeDocumentMoniker": "Views\\Comics\\Detail.cshtml",
               "ToolTip": "C:\\Cong nghe web\\New folder\\WebTrom\\Views\\Comics\\Detail.cshtml",
               "RelativeToolTip": "Views\\Comics\\Detail.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-01T07:09:13.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Chapter.cshtml",
               "DocumentMoniker": "C:\\Cong nghe web\\New folder\\WebTrom\\Views\\Comics\\Chapter.cshtml",
               "RelativeDocumentMoniker": "Views\\Comics\\Chapter.cshtml",
@@ -167,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Cong nghe web\\New folder\\WebTrom\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -179,19 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Cong nghe web\\New folder\\WebTrom\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Cong nghe web\\New folder\\WebTrom\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T07:34:52.967Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Cong nghe web\\New folder\\WebTrom\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -203,7 +205,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Cong nghe web\\New folder\\WebTrom\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Cong nghe web\\New folder\\WebTrom\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-03T07:35:53.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Cong nghe web\\New folder\\WebTrom\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Cong nghe web\\New folder\\WebTrom\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:31:02.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebTruyen.csproj",
+              "DocumentMoniker": "C:\\Cong nghe web\\New folder\\WebTrom\\WebTruyen.csproj",
+              "RelativeDocumentMoniker": "WebTruyen.csproj",
+              "ToolTip": "C:\\Cong nghe web\\New folder\\WebTrom\\WebTruyen.csproj",
+              "RelativeToolTip": "WebTruyen.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-03T07:25:04.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Cong nghe web\\New folder\\WebTrom\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Cong nghe web\\New folder\\WebTrom\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T07:34:52.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Cong nghe web\\New folder\\WebTrom\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -215,25 +265,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
               "ToolTip": "C:\\Cong nghe web\\New folder\\WebTrom\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAABAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwBUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-11-01T06:58:17.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Cong nghe web\\New folder\\WebTrom\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Cong nghe web\\New folder\\WebTrom\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwB4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T03:01:46.525Z"
             }
