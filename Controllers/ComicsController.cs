@@ -3,17 +3,37 @@ using WebTruyen.Models;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using Microsoft.EntityFrameworkCore;
 
 namespace WebTruyen.Controllers
 {
     public class ComicsController : Controller
     {
         private readonly string _comicsDirectory;
+        private readonly AppDbContext _context;
+        public ComicsController(AppDbContext context)
+        {
+            _context = context;
+        }
 
         public ComicsController(IWebHostEnvironment env)
         {
             _comicsDirectory = Path.Combine(env.WebRootPath, "comic");
         }
+
+        public async Task<IActionResult> Index1()
+        {
+            var truyens = await _context.Truyens
+                .Include(t => t.Truyen_TGs)
+                    .ThenInclude(ttg => ttg.Author)
+                .Include(t => t.Truyen_Tls)
+                    .ThenInclude(ttl => ttl.TheLoai)
+                .ToListAsync();
+
+            return View(truyens);
+        }
+
+
 
         public IActionResult Index()
         {
@@ -102,7 +122,7 @@ namespace WebTruyen.Controllers
             return View(comicModel);
         }
 
-
+     
 
     }
 }
