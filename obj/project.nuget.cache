@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "ShZlMTeNLUg=",
   "success": true,
   "projectFilePath": "C:\\Cong nghe web\\New folder\\WebTrom\\WebTruyen.csproj",
@@ -81,5 +82,17 @@
     "C:\\Users\\MACON\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\MACON\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "tG3F+jfVtqk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\thai binh duong\\ThucHanh\\50\\WebTrom\\WebTruyen.csproj",
+=======
+  "dgSpecHash": "ICBUocbQbwc=",
+  "success": true,
+  "projectFilePath": "D:\\STD\\Git file\\WebTrom\\WebTruyen.csproj",
+>>>>>>> 12252ab07cc7a332d2796540d58fabfa20c532f0
+  "expectedPackageFiles": [],
+>>>>>>> eb7882754794edab65c7424a70b9ed3d87f83fdb
   "logs": []
 }
